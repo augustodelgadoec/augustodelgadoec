@@ -26,7 +26,7 @@ Servicios profesionales de tecnología orientados a hogares, empresas e instituc
 
 **Servicios:**
 
-Reparación y mantenimiento de computadoras
+- Reparación y mantenimiento de computadoras
 - Instalación y administración de redes
 - Sistemas de videovigilancia y seguridad electrónica
 - Mantenimiento y reparación de impresoras
@@ -41,6 +41,8 @@ Reparación y mantenimiento de computadoras
 
 Sistema de gestión educativa desarrollado en PHP y MySQL.
 
+Versión actual: v1.0.0
+
 Funciones principales:
 
 - Gestión de estudiantes
@@ -53,7 +55,7 @@ Funciones principales:
 
 Repositorio:
 
-- GesEdu
+🔗 https://github.com/augustodelgadoec/gesedu
 
 ---
 
@@ -76,6 +78,7 @@ Portoviejo – Manabí – Ecuador
 ### 📫 Contacto
 
 📧 audelce83@gmail.com
+
 📧 adsoluciones.ec@gmail.com
 
 📱 0961972735 | 0982415064
