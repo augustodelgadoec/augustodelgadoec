@@ -84,17 +84,6 @@ Portoviejo – Manabí – Ecuador
 
 ---
 
-### 📬 Contacto
-
-📧 audelce83@gmail.com
-
-📧 adsoluciones.ec@gmail.com
-
-📱 0961972735 | 0982415064
-
-🌐 AD Soluciones Tecnológicas
-
----
 
 ### 📈 Actualmente
 
